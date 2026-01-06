@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+*.env
+.vscode/
+.idea/
+results/*.xlsx
